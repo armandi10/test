@@ -4,3 +4,5 @@ resource "aws_vpc" "main" {
 
 # This is a comment
 # Adding new resources
+
+# this should be a conflict
