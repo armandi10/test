@@ -3,3 +3,4 @@ resource "aws_vpc" "main" {
 }
 
 # This is a comment
+# Adding new resources
